@@ -1,6 +1,7 @@
 # [오이와문허] 자율주행을 위한 도로 및 신호정보 해석 연구
 
 웨이트 파일(weight_sign, weight_traffic 그리고 yolo_v3 weight file)은 크기가 커서 깃허브에 올라가지  구글 드라이브 링크를 남겼습니다.
+
 weight: https://drive.google.com/open?id=1Kbek6xDbYxhWgQYgJz_MEGB2uxo0oHju
 
 weight_sign: https://drive.google.com/open?id=1zl3U4Zn_qhRQLinWh3zyYSGl0MmUQ0K8
