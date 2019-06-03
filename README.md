@@ -2,8 +2,8 @@
 
 웨이트 파일(weight_sign, weight_traffic 그리고 yolo_v3 weight file)은 크기가 커서 깃허브에 구글 드라이브 링크를 남겼습니다.
 weight: https://drive.google.com/open?id=1Kbek6xDbYxhWgQYgJz_MEGB2uxo0oHju
-weight_sign: https://drive.google.com/open?id=1zl3U4Zn_qhRQLinWh3zyYSGl0MmUQ0K8
-weight_traffic: https://drive.google.com/open?id=1YgzGf966Uq9uFx0WZqWA9zDYLyW4MIk5
+\nweight_sign: https://drive.google.com/open?id=1zl3U4Zn_qhRQLinWh3zyYSGl0MmUQ0K8
+\nweight_traffic: https://drive.google.com/open?id=1YgzGf966Uq9uFx0WZqWA9zDYLyW4MIk5
 
 
 
