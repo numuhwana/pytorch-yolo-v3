@@ -1,0 +1,16 @@
+
+
+python detect.py --images imgs --det det --reso 320
+
+python video_demo.py --video video/video.avi
+python video_demo_tiny.py --video video/video.avi
+python video_demo.py --video video/choyi_test2.mp4
+python video_demo.py --video video/choyi_test2.mp4
+python video_demo.py --video video/testing.MP4
+python video_demo.py --video video/5.AVI
+python video_demo.py --video video/1.mp4
+
+python togetdata.py --video video/choyi_test2.mp4
+
+
+
