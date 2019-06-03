@@ -1,7 +1,7 @@
 # [오이와문허] 자율주행을 위한 도로 및 신호정보 해석 연구
 
-웨이트 파일(traffic_sign과 yolo_v3 weight file)은 크기가 커서 깃허브에 구글 드라이브 링크를 남겼습니다.
-
+웨이트 파일(weight_sign, weight_traffic 그리고 yolo_v3 weight file)은 크기가 커서 깃허브에 구글 드라이브 링크를 남겼습니다.
+weight: https://drive.google.com/drive/u/1/folders/1Kbek6xDbYxhWgQYgJz_MEGB2uxo0oHju
 
 
 This repository contains code for a object detector based on [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf), implementedin PyTorch. The code is based on the official code of [YOLO v3](https://github.com/pjreddie/darknet), as well as a PyTorch 
